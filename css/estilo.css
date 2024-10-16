@@ -1,0 +1,72 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background: #0e4e2a;
+}
+
+.content{
+    justify-content: center;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    margin-top: 14%;
+}
+
+.elemento{
+    background: #f5f5dc;
+    height: 412px;
+    width: 581px;
+    border-radius: 25px;
+}
+
+.carc{
+    text-align: center;
+    margin: 12px;
+}
+
+form{
+    padding: 20px;
+}
+
+input{
+    border: none;
+    
+}
+
+.itens{
+    margin: 14px;
+}
+
+#campo{
+    padding: 8px;
+}
+
+#espaco{
+    margin-left: 14px;
+}
+
+.direita{
+    float: left;
+    width: 30%;
+    text-align: right;
+}
+
+.esquerda{
+    width: 62%;
+}
+
+.data{
+    width: 173px;
+    height: 15px;
+}
+
+button{
+    padding: 17px 116px;
+    background: rgb(48 173 53);
+    border: none;
+    color: white;
+    font-size: 22px;
+    border-radius: 19px;
+}
